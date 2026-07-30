@@ -1,4 +1,3 @@
-# React-contact-cards-manager
 # React Contact Cards Manager
 
 A responsive single-page React application for creating, displaying, and searching digital contact/business cards.
